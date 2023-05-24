@@ -3,9 +3,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;conoceme:</h3>
 
-- 🎓 &nbsp; Graduated in full stack development
-- :rocket: &nbsp; Learning; el desarrollo wed
-- 💼 &nbsp; I live in Bogotá/COLOMBIA
+- 🎓 &nbsp; Graduado full stack development
+- :rocket: &nbsp; conocimientos el desarrollo wed
+- 💼 &nbsp; vivo en Bogotá/COLOMBIA
 
 <h3>🛠 Tech Stack</h3>
 
@@ -26,14 +26,7 @@
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-000?&logo=styled-components)
 ![NPM](https://img.shields.io/badge/-NPM-000?&logo=NPM)
 <br />
-<br />
 
-<p>
-   <h3> 🤝🏻 Connect with me </h3>
-  <a href="mailto:hi@ferdiozer.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://instagram.com/ferdi.ozer"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ferdiozer"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
 
 <br>
 <p align="center">
